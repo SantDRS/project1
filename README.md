@@ -1,2 +1,2 @@
 # project1
-Group repository for group 1.
+Project 1 repository for group 1.
