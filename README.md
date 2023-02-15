@@ -13,8 +13,8 @@ Null Hypothesis:
 The Federal Funds rate does not impact the growth rate of the market indexes.
 
 Datasets to be used:
-Federal Funds Rate Dataset: https://fred.stlouisfed.org/series/FEDFUNDS
-Market Indexes API: https://fred.stlouisfed.org/docs/api/fred/
+    - Federal Funds Rate Dataset: https://fred.stlouisfed.org/series/FEDFUNDS
+    - Market Indexes API: https://fred.stlouisfed.org/docs/api/fred/
 
 Data Analysis Jupyter Notebook:
     - Import federal funds CSV
